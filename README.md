@@ -23,4 +23,6 @@ Update QlikView to 12.70 SR2 or above
 Giulio Garzia
 
 ### Reference
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-42248
+https://nvd.nist.gov/vuln/detail/CVE-2022-42248
 https://community.qlik.com/t5/Release-Notes/QlikView-Release-Notes-May-2022-SR2/ta-p/2037704 (Issue ID: QV-23876)
